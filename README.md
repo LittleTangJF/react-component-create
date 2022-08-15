@@ -6,15 +6,15 @@ _TODO:_ Add story book and test templates.
 
 ## 1. Right click on a folder
 
-![alt text](./readme/1.png)
+![alt 图标](https://github.com/LittleTangJF/react-component-create/blob/main/readme/1.png?raw=true)
 
 ## 2. Enter a name
 
-![alt text](./readme/2.png)
+![alt 图标](https://github.com/LittleTangJF/react-component-create/blob/main/readme/2.png?raw=true)
 
 ## 3. Folder structure is created
 
-![alt text](./readme/3.png)
+![alt 图标](https://github.com/LittleTangJF/react-component-create/blob/main/readme/3.png?raw=true)
 
 # To Publish
 

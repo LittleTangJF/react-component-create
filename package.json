@@ -1,9 +1,13 @@
 {
-  "name": "create-react-component",
+  "name": "create-react-component-taro",
   "publisher": "jiafu",
   "displayName": "Create React Component",
   "description": "Create an opinionated folder structure for a component.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LittleTangJF/react-component-create"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
